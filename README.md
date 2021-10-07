@@ -1,13 +1,13 @@
 # Registration_Form_using_tkinter-python-with-MySql-and-without-MySql-
 
-What is Tkinter?
+<h3>What is Tkinter?</h3>
 Python offers many options for developing GUI but Tkinter is used mostly.
 
 Tkinter is a standard python library. Python with tkinter module is the fastest and easiest way to develop an object-oriented GUI application.
 
 It provides us a variety of common GUI(graphical user interface) elements that we can use to build our user interfaces like buttons, menus, and various kinds of entry fields and display areas.
 
-#Tkinter widgets:
+<h3>Tkinter widgets:</h3>
 
 Frame: acts as a container and it is used to organize and hold other widgets.
 Text: It provides a formatted text display and allows us to display and edit text with various styles.
@@ -29,7 +29,7 @@ Scale: This widget provides graphical slider objects that allow us to select var
 Separator: This widget is used to place a vertical and horizontal bar between various widgets.
 Spinbox: This widget is an alternative for entry widget, it can be used to provides a range of values out of which the user can select the one.
 
-#How we can use Tkinter in Python?
+<h3>How we can use Tkinter in Python?</h3>
 
 Step1: Import the tkinter module (from tkinter import *  or simple  import tkinter)
 
