@@ -1,6 +1,6 @@
 # Registration_Form_using_tkinter-python-with-MySql-and-without-MySql-
 
-<h3>What is Tkinter</h3>
+<h3>What is Tkinter ?</h3>
 Python offers many options for developing GUI but Tkinter is used mostly.
 
 Tkinter is a standard python library. Python with tkinter module is the fastest and easiest way to develop an object-oriented GUI application.
