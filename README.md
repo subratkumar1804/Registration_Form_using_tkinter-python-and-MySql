@@ -1,4 +1,4 @@
-# Registration_Form_using_tkinter-python-with-MySql-and-without-MySql
+# Registration_Form_using_tkinter-python-with-MySql-and-without-MySql-
 
 <h3>What is Tkinter ?</h3>
 Python offers many options for developing GUI but Tkinter is used mostly.
